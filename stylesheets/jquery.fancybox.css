@@ -76,7 +76,7 @@
 }
 
 #fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
-	background-image: url('https://dl.dropbox.com/s/jub683ekbkoa0zd/fancybox_sprite.png?dl=0');
+	background-image: url('http://campbellhc.github.io/template1/images/fancybox_sprite.png?dl=0');
 }
 
 #fancybox-loading {
@@ -94,7 +94,7 @@
 #fancybox-loading div {
 	width: 44px;
 	height: 44px;
-	background: url('https://dl.dropbox.com/s/efoxn51beub3t5u/fancybox_loading.gif?dl=0') center center no-repeat;
+	background: url('http://campbellhc.github.io/template1/images/fancybox_loading.gif?dl=0') center center no-repeat;
 }
 
 .fancybox-close {
@@ -114,7 +114,7 @@
 	height: 100%;
 	cursor: pointer;
 	text-decoration: none;
-	background: transparent url('https://dl.dropbox.com/s/u5yoeh3oywliszx/fancybox_blank.gif?dl=0'); /* helps IE */
+	background: transparent url('http://campbellhc.github.io/template1/images/fancybox_blank.gif?dl=0'); /* helps IE */
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
 	z-index: 8040;
 }
@@ -184,7 +184,7 @@
 	overflow: hidden;
 	display: none;
 	z-index: 8010;
-	background: url('https://dl.dropbox.com/s/w57embfe2ugz5w8/fancybox_overlay.png?dl=0');
+	background: url('http://campbellhc.github.io/template1/images/fancybox_overlay.png?dl=0');
 }
 
 .fancybox-overlay-fixed {
@@ -263,12 +263,12 @@
 	   only screen and (min-device-pixel-ratio: 1.5){
 
 	#fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
-		background-image: url('https://dl.dropbox.com/s/csew49yumgsoemi/fancybox_sprite%402x.png?dl=0');
+		background-image: url('http://campbellhc.github.io/template1/images/fancybox_sprite%402x.png?dl=0');
 		background-size: 44px 152px; /*The size of the normal image, half the size of the hi-res image*/
 	}
 
 	#fancybox-loading div {
-		background-image: url('https://dl.dropbox.com/s/csew49yumgsoemi/fancybox_sprite%402x.png?dl=0');
+		background-image: url('http://campbellhc.github.io/template1/images/fancybox_sprite%402x.png?dl=0');
 		background-size: 24px 24px; /*The size of the normal image, half the size of the hi-res image*/
 	}
 }
