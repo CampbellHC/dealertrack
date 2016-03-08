@@ -24,14 +24,14 @@
 
 @font-face {
 	font-family: 'HelveticaNeueLTPro-Roman';
-	src: url('https://dl.dropbox.com/s/iw7mio8sc6z0wu3/HelveticaNeueLTPro-Roman-1.otf?dl=0'); 
+	src: url('http://campbellhc.github.io/template1/fonts/HelveticaNeueLTPro-Roman-1.otf?dl=0'); 
 	src: local('HelveticaNeueLTPro-Roman'),
 	local('HelveticaNeueLTPro Roman'),
 	format('opentype');
 }
 @font-face {
 	font-family: 'HelveticaNeueLTPro-Bd';
-	src: url('https://dl.dropbox.com/s/yv5r2j9farzjusj/HelveticaNeueLTPro-Bd-1.otf?dl=0');  
+	src: url('http://campbellhc.github.io/template1/fonts/HelveticaNeueLTPro-Bd-1.otf?dl=0');  
 	src: local('HelveticaNeueLTPro-Bd'),
 	local('HelveticaNeueLTPro Bd'),
 	format('opentype');
@@ -277,7 +277,7 @@ figure.figure-hover {
 		bottom:0;
 		left:0;
 		right:0;
-		background:url(https://dl.dropbox.com/s/2ohond7wxu1mn26/base-figure-overlay.png?dl=0) repeat;
+		background:url(http://campbellhc.github.io/template1/images/base-figure-overlay.png?dl=0) repeat;
 	}
 	figure.figure-hover img {
 		-webkit-transition:all .2s ease-in-out;
@@ -299,7 +299,7 @@ figure.figure-hover {
 			width:100%;
 			height:100%;
 		}
-		figure.figure-hover div .icon-hover.icon-hover-zoom { background:url(https://dl.dropbox.com/s/f1m53fkrrlp7s0y/icon-hover-zoom.png?dl=0) no-repeat center center; }
+		figure.figure-hover div .icon-hover.icon-hover-zoom { background:url(http://campbellhc.github.io/template1/images/icon-hover-zoom.png?dl=0) no-repeat center center; }
 
 .alert h4 { margin-bottom:10px; }
 
@@ -318,9 +318,9 @@ figure.figure-hover {
 	list-style:none;
 	margin-bottom:5px;
 }
-.list-style.list-arrow ul li { list-style-image:url(https://dl.dropbox.com/s/xzyqx84jnwq1g6b/list-arrow.png?dl=0); }
-.list-style.list-arrow-bold ul li { list-style-image:url(https://dl.dropbox.com/s/expdnk3o4azxq1r/list-arrow-bold.png?dl=0); }
-.list-style.list-arrow-circle ul li { list-style-image:url(https://dl.dropbox.com/s/p2a2se3cercc0di/list-arrow-circle.png?dl=0); }
+.list-style.list-arrow ul li { list-style-image:url(http://campbellhc.github.io/template1/images/list-arrow.png?dl=0); }
+.list-style.list-arrow-bold ul li { list-style-image:url(http://campbellhc.github.io/template1/images/list-arrow-bold.png?dl=0); }
+.list-style.list-arrow-circle ul li { list-style-image:url(http://campbellhc.github.io/template1/images/list-arrow-circle.png?dl=0); }
 
 .dotstheme-contact-wrapper {
 	color:#a9a9a9;
@@ -503,7 +503,7 @@ figure.figure-hover {
 				bottom:-14px;
 				left:0px;
 				height:14px;
-				background:url(https://dl.dropbox.com/s/iru6xtss2x4ni4q/tbl-prc-shadow.png?dl=0) top center no-repeat;
+				background:url(http://campbellhc.github.io/template1/images/bl-prc-shadow.png?dl=0) top center no-repeat;
 			}
 
 
@@ -521,7 +521,7 @@ figure.figure-hover {
 	z-index:1000;
 }
 #navigation.navbar-default {
-	background:url(https://dl.dropbox.com/s/he48r08vtjoz59a/base-navigation.png?dl=0) repeat;
+	background:url(http://campbellhc.github.io/template1/images/base-navigation.png?dl=0) repeat;
 	-ms-filter:"progid:DXImageTransform.Microsoft.gradient(enabled=false)";
 	filter:none;
 	border:0px;
@@ -574,13 +574,13 @@ figure.figure-hover {
 /* ========================= Header ========================= */
 
 #header {
-	background:#151515 url(https://dl.dropbox.com/s/nzpx2j09p88hh70/base-header.png?dl=0) top center repeat;
+	background:#151515 url(http://campbellhc.github.io/template1/images/base-header.png?dl=0) top center repeat;
 	margin:0px 0px 0px;
 }
-#header.bg-pattern2 { background-image:url(https://dl.dropbox.com/s/9idxuecre9lfih0/base-header2.jpg?dl=0); }
-#header.bg-pattern3 { background-image:url(https://dl.dropbox.com/s/o3kol8w0324nlvj/base-header3.jpg?dl=0); }
+#header.bg-pattern2 { background-image:url(http://campbellhc.github.io/template1/images/base-header2.jpg?dl=0); }
+#header.bg-pattern3 { background-image:url(http://campbellhc.github.io/template1/images/base-header3.jpg?dl=0); }
 #header.bg-image {
-	background-image:url(https://dl.dropbox.com/s/7472vn6yd2q66ph/dealertrack2-base-header-image.jpg?dl=0);
+	background-image:url(http://campbellhc.github.io/template1/images/dealertrack2-base-header-image.jpg?dl=0);
 	background-size:cover;
 	background-attachment:fixed;
 }
@@ -588,7 +588,7 @@ figure.figure-hover {
 		background-color:transparent;
 		padding:50px 0px 80px;
 	}
-	#header.bg-image .bg-image-overlay { background:url(https://dl.dropbox.com/s/iiwjz1erkxxq7ad/base-header-overlay.png?dl=0) repeat; }
+	#header.bg-image .bg-image-overlay { background:url(http://campbellhc.github.io/template1/images/base-header-overlay.png?dl=0) repeat; }
 	
 	#header .header-text {
 		color:#c9c9c9;
@@ -637,7 +637,7 @@ figure.figure-hover {
 	#header.header2 .dotstheme-contact-wrapper {
 		width:640px;
 		text-align:center;
-		background:url(https://dl.dropbox.com/s/ad664wdbfi9mf2f/base-contact-form.png?dl=0) repeat;
+		background:url(http://campbellhc.github.io/template1/images/base-contact-form.png?dl=0) repeat;
 		padding:12px !important;
 		margin:0px auto -80px;
 		border:0px !important;
@@ -655,7 +655,7 @@ figure.figure-hover {
 /* ========================= Main ========================= */
 
 .wrap-bg {
-	background:#fafafa url(https://dl.dropbox.com/s/n1rnu9619sctcde/wrap_bg_base.jpg?dl=0) repeat top center;
+	background:#fafafa url(http://campbellhc.github.io/template1/images/wrap_bg_base.jpg?dl=0) repeat top center;
 	background-size:cover;
 	padding-top:50px;
 	margin-bottom:60px;
@@ -759,7 +759,7 @@ figure.figure-hover {
 			.dotstheme_testimonial .testimonial-content .testimonial-name .testimonial-rate {
 				float:right;
 				width:86px;
-				background:url(../images/5-stars-rating-base.png) left center no-repeat;
+				background:url(http://campbellhc.github.io/template1/images/5-stars-rating-base.png) left center no-repeat;
 			}
 			.dotstheme_testimonial.testimonial-pullright .testimonial-content .testimonial-name .testimonial-rate {
 				float:left;
@@ -770,7 +770,7 @@ figure.figure-hover {
 					width:100%;
 					height:22px;
 					text-indent:-99999px;
-					background:url(https://dl.dropbox.com/s/e22jlrxhmjhhe2z/5-stars-rating.png?dl=0) left center no-repeat;
+					background:url(http://campbellhc.github.io/template1/images/5-stars-rating.png?dl=0) left center no-repeat;
 				}
 				.dotstheme_testimonial.testimonial-pullright .testimonial-content .testimonial-name .testimonial-rate .testimonial-rate-val {
 					float:right;
@@ -779,9 +779,9 @@ figure.figure-hover {
 				}
 	.dotstheme_testimonial .testimonial-shadow {
 		height:20px;
-		background:url(https://dl.dropbox.com/s/aes1t29zgpll0k9/testimonial-shadow.png?dl=0) no-repeat top left;
+		background:url(http://campbellhc.github.io/template1/images/testimonial-shadow.png?dl=0) no-repeat top left;
 	}
-	.dotstheme_testimonial.testimonial-pullright .testimonial-shadow { background:url(https://dl.dropbox.com/s/jndcwvd1qilimxw/testimonial-shadow-right.png?dl=0) no-repeat top right; }
+	.dotstheme_testimonial.testimonial-pullright .testimonial-shadow { background:url(http://campbellhc.github.io/template1/images/testimonial-shadow-right.png?dl=0) no-repeat top right; }
 
 .portfolio-item {
 	text-align:center;
@@ -1097,7 +1097,7 @@ figure.figure-hover {
 		text-indent:-99999px;
 		background-position:left;
 	}
-	.dotstheme_testimonial.testimonial-pullright .testimonial-shadow { background:url(https://dl.dropbox.com/s/aes1t29zgpll0k9/testimonial-shadow.png?dl=0) no-repeat top left; }
+	.dotstheme_testimonial.testimonial-pullright .testimonial-shadow { background:url(http://campbellhc.github.io/template1/images/testimonial-shadow.png?dl=0) no-repeat top left; }
 	
 	#footer .social li { padding:0px 8px; }
 	
